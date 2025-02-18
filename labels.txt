@@ -1,2 +1,2 @@
-0 human
-1 no-human
+0 giant
+1 human
